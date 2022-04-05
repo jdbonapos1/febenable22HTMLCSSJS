@@ -1,11 +1,5 @@
-main{
-    display: grid;
-}grid-template-columns 33% 1fr;
-
-.left{}
-::background-color: ;
-.left-image
-
+main{ background-color: brown;
+font-display: white;
 
 
 
