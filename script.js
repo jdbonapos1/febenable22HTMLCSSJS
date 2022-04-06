@@ -1,19 +1,16 @@
-// USE STRICT AND CONSOLE
-/* use strict:
-forces us to write 'secure' JavaScript
-stops us using protected words, accidentally making global variables.
-*/
+
 
 'use strict'
 
-console.log('JD');
+console.log("JD");
 
-console.info('Bon');
+console.info("BON");
 
-console.warn('UK');
+console.warn("DOG land");
 
-console.error('Cancer');
+console.error("Cancer");
 
-let car = "Toyota";
-let model = "Corolla";
-console.info("My favourite car is a ",car,". and the model is ",model);
+ let myCar = "Audi";
+ let myModel = "A5";
+ console.log("my fav car is: " + myCar + " and the model is: " + myModel);
+
