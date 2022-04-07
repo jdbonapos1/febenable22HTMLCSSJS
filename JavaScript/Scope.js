@@ -1,4 +1,6 @@
+
 // TASK 8
+
 'use strict'
 
 function submit() {
@@ -6,20 +8,10 @@ function submit() {
     if (x == "foo") {
       let y = "boo";
     }
-    console.log(x); // 'foo'
-    console.log(y); // 'Reference error'
+    console.log(x);
+    console.log(y); 
   }
   submit();
 
-  /*function doSomething() {
-    console.log(a);
-    console.log(foo());
-    let a = 1;
-    function foo() {
-      return 2;
-    }
-  }
-  doSomething();
-  
-throws reference error
-/** */
+
+  // reference error
